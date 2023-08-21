@@ -1,0 +1,7 @@
+pandas
+numpy
+joblib
+scikit-learn
+Flask # web server
+tensorflow-cpu
+gunicorn 
